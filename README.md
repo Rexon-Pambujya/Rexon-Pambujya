@@ -14,6 +14,7 @@ I have  experience in Frontend development and working knowledge of AI/ML techno
 # 📊 GitHub Stats:
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Rexon-Pambujya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-  </div><br/>
+  <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rexon-Pambujya&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexon-Pambujya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
