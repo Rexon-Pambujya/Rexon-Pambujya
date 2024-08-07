@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Rexon currently learning DSA and more about AI/ML experienced in frontend development.👋
 
 
 # 💻 Tech Stack:
