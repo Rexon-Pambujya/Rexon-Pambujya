@@ -1,4 +1,11 @@
-### Hi there 👋, I am Rexon currently learning DSA and more about AI/ML experienced in frontend development.👋
+<h1 align="center">Hi 👋, I'm Rexon Pambujya </h1>
+
+## Developer Portfolio: [Rexon Pambujya](https://rexonpambujya-rexon-pambujyas-projects.vercel.app/)
+
+
+- 🌱 I’m currently learning **AI/ML, DSA and SQL**
+
+[![](https://visitcount.itsvg.in/api?id=Rexon-Pambujya&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -7,6 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rexon-Pambujya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rexon-Pambujya&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexon-Pambujya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rexon-Pambujya&icon=5&color=5)](https://visitcount.itsvg.in)
