@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rexon Pambujya </h1>
 
+I have  experience in Frontend development and working knowledge of AI/ML technologies.
 ## Developer Portfolio: [Rexon Pambujya](https://rexonpambujya-rexon-pambujyas-projects.vercel.app/)
 
 
-- 🌱 I’m currently learning **AI/ML, DSA and SQL**
+- 🌱 I’m currently learning about **AI/ML, DSA and SQL**
 
 [![](https://visitcount.itsvg.in/api?id=Rexon-Pambujya&icon=5&color=5)](https://visitcount.itsvg.in)
 
