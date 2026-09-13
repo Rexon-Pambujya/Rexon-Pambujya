@@ -1,17 +1,83 @@
-<h1 align="center">Hi 👋, I'm Rexon Pambujya </h1>
+<h1 align="center">Hi 👋, I'm Rexon Pambujya</h1>
 
-## Developer Portfolio: [Rexon Pambujya](https://rexonpambujya-rexon-pambujyas-projects.vercel.app/)
+<h3 align="center">
+AI / ML Engineer • ML Models • LLM Systems • Python • Agentic AI •
+</h3>
 
+<p align="center">
+<a href="https://rexonpambujya-rexon-pambujyas-projects.vercel.app/">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/rexon-pambujya/">LinkedIn</a> •
+<a href="https://github.com/Rexon-Pambujya">GitHub</a>
+</p>
 
-- 🌱 I’m currently working as a Data Scientist utilising and learning **AI/ML, DSA, Python, AI Agents and SQL** and other 
+---
 
-[![](https://visitcount.itsvg.in/api?id=Rexon-Pambujya&icon=5&color=5)](https://visitcount.itsvg.in)
+### 👨‍💻 About Me
 
+I'm an **AI/ML Engineer** focused on building and deploying practical AI systems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rexon-Pambujya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-  <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rexon-Pambujya&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexon-Pambujya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🤖 Agentic AI, LLMs & RAG
+* 🧠 Machine Learning & NLP
+* ⚡ FastAPI, Python & SQL
+* 🔗 LangChain & LangGraph
+* 🛠️ AI APIs, automation & backend systems
+* ☁️ Docker, AWS & deployment
+* 📊 LLM evaluation, reliability & observability
+
+---
+
+### 🚀 Featured Projects
+
+<a href="https://github.com/Rexon-Pambujya/AITalentLens">**TalentLens AI**</a>
+
+AI-assisted candidate intelligence for recruiters: upload resumes, extract structured candidate profiles, score them against a job's requirements across five weighted dimensions (skills, semantic relevance, experience, education, projects), and get a recruiter-readable explanation of why a candidate is fit.
+
+<a href="https://github.com/Rexon-Pambujya/CareDocAI">**🩺 CareDocAI**</a>
+
+Medical document & consultation intelligence using Faster-Whisper, Groq, Pydantic, FastAPI and Docker.
+
+<a href="https://github.com/Rexon-Pambujya/langgraph-rag-weather-ai-pipeline">**🌦️ RagLangWeather**</a>
+
+Agentic weather assistant built with LangGraph, tools, retrieval and LangSmith.
+
+<a href="https://github.com/Rexon-Pambujya/langgraph-rag-weather-ai-pipeline">**Expertise Fraud Detection System**</a>
+
+proof-of-concept for detecting potential expertise fraud in candidate profiles using machine learning, reinforcement learning, and workflow orchestration. This system analyzes profile histories, screening answers, and web signals to identify suspicious claims, providing explainable decisions for hiring processes.
+
+**🛡️ AI Fraud & Risk Agent**
+
+Multi-agent fraud/risk analysis system using CrewAI, FastAPI, PostgreSQL, Redis and Celery.
+
+**📄 Enterprise RAG**
+
+Production-oriented document QA with vector search, RBAC, retrieval evaluation and grounded generation.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python • SQL • JavaScript
+
+**AI/ML:** PyTorch • Scikit-learn • Pandas • NumPy
+
+**GenAI:** LangChain • LangGraph • RAG • LLMs • Agentic AI • LoRA/PEFT
+
+**Backend:** FastAPI • Flask • Pydantic
+
+**Databases:** PostgreSQL • MySQL • Qdrant • FAISS • pgvector
+
+**DevOps:** Docker • AWS • GitHub Actions • Git
+
+**Automation:** n8n • Streamlit • LangSmith
+
+---
+
+### ✍️ Writing
+
+**Mental Model for Designing Production-Ready Agentic AI Systems**<a href="https://medium.com/@rexonpambujya2001_23092/mental-model-for-designing-production-ready-agentic-ai-systems-4a73a16abddd"> Medium </a>
+
+Exploring agent orchestration, tools, memory, evaluation, reliability, monitoring and governance.
+
+---
+<i>Building intelligent systems that are useful, reliable and production-ready.</i>
+</p>
